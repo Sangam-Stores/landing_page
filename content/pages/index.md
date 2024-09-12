@@ -240,9 +240,12 @@ sections:
       text: AAPKA PANDIT
       color: text-dark
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      An **AI assistant,** trained on ancient texts and knowledge provided by
+      expert pandits and individuals excelling in Hindu Dharmas. It helps you
+      determine your pooja requirements according to the Hindu calendar,
+      suggests customized DIY kits for every occasion, and even more.
+
     actions:
       - type: Button
         label: Get started
