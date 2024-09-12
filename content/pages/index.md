@@ -246,14 +246,7 @@ sections:
       determine your pooja requirements according to the Hindu calendar,
       suggests customized DIY kits for every occasion, and even more.
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: >-
