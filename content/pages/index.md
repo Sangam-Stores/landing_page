@@ -23,7 +23,6 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/Final-logo-sangam-02-Photoroom.svg
       altText: Aarti being done
       elementId: ''
       type: ImageBlock
