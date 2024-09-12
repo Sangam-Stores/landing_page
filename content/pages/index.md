@@ -99,7 +99,7 @@ sections:
       muted: true
     badge:
       label: Sangam Stores
-      color: text-light
+      color: text-primary
       styles:
         self:
           textAlign: center
