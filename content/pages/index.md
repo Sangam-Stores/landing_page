@@ -256,7 +256,10 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: >-
+        /images/DALL·E 2024-09-06 13.38.48 - A cartoon-style AI Hindu pandit,
+        with a blend of traditional and modern elements. The pandit wears
+        traditional Hindu attire such as a dhoti, a saffron.webp
       altText: Dope design preview
     badge:
       type: Badge
