@@ -128,7 +128,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/havan.jpg
-          altText: Cotton Knit Throws
+          altText: Pandit ji doing havan
           elementId: ''
           styles:
             self:
