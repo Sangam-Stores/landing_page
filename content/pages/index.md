@@ -77,26 +77,6 @@ sections:
       online consultations and pooja conduction services, sourcing our products
       from sacred places like Varanasi, Uttarakhand, Rishikesh, and Ujjain to
       bridge the gap between temple towns and metropolitan cities.**"**
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: Sangam Stores
       color: text-primary
