@@ -13,7 +13,7 @@ sections:
       expert pujaris, specializing in various rituals. 
 
     actions:
-      - label: Get started
+      - label: Shop Now
         altText: ''
         url: /
         showIcon: false
