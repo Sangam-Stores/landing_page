@@ -36,6 +36,9 @@ sections:
       altText: Aarti being done
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          borderRadius: small
     badge:
       label: Sangam Store
       color: text-primary
