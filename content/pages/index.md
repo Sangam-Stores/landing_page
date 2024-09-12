@@ -92,7 +92,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: 'Divine Reflections: A Photo Gallery of Faith and Spirituality'
       color: text-dark
       styles:
         self:
