@@ -137,7 +137,7 @@ sections:
         colors: bg-neutral-fg-dark
       - type: FeaturedItem
         title: ''
-        subtitle: $117
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/ayodhya.jpeg
