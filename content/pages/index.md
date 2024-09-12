@@ -150,7 +150,7 @@ sections:
         colors: bg-neutral-fg-dark
     actions: []
     elementId: ''
-    variant: two-col-grid
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
