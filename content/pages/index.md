@@ -239,7 +239,7 @@ sections:
       type: TitleBlock
       text: AAPKA PANDIT
       color: text-dark
-    subtitle: Be in good company
+    subtitle: '“Guiding Your Spiritual Journey, Anytime, Anywhere”'
     text: >+
       An **AI assistant,** trained on ancient texts and knowledge provided by
       expert pandits and individuals excelling in Hindu Dharmas. It helps you
