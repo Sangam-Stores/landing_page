@@ -153,7 +153,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/dwarka nagri.jpeg
           altText: Faux Fur Throw
           elementId: ''
           styles:
