@@ -124,7 +124,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: $ 44.99 – $ 90
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/havan.jpg
