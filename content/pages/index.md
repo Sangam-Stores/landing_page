@@ -114,13 +114,7 @@ sections:
       from sacred places like Varanasi, Uttarakhand, Rishikesh, and Ujjain to
       bridge the gap between temple towns and metropolitan cities.**"**
 
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
