@@ -62,44 +62,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/pexels-being-the-traveller-579914-2619724.jpg
-  - title:
-      text: Celebrate Your Faith with Ease
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      "**Sangam Services and Store** brings together a team of well-educated
-      expert pujaris, specializing in various rituals. They help curate our DIY
-      pooja kits and provide in-depth guidance on pooja practices. We offer
-      online consultations and pooja conduction services, sourcing our products
-      from sacred places like Varanasi, Uttarakhand, Rishikesh, and Ujjain to
-      bridge the gap between temple towns and metropolitan cities.**"**
-    badge:
-      label: Sangam Stores
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-    media:
-      type: ImageBlock
-      url: /images/2.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
   - type: GenericSection
     title:
       type: TitleBlock
