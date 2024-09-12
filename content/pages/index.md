@@ -177,7 +177,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/rudraksh.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
