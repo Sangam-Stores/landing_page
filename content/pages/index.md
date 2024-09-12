@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/pexels-being-the-traveller-579914-2619724.jpg
+      url: /images/Final-logo-sangam-02-Photoroom.svg
       altText: Aarti being done
       elementId: ''
       type: ImageBlock
