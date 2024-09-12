@@ -664,11 +664,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      "Have a question, comment, or suggestion? We'd love to hear from you.
+      Please feel free to contact our customer support team. We aim to respond
+      to all inquiries promptly."
+
     media:
       fields:
         - name: name
