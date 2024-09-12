@@ -104,7 +104,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/rudra2.jpg
-          altText: Faux Fur Throw
+          altText: Rudraksh
           elementId: ''
           styles:
             self:
