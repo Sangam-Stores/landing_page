@@ -178,7 +178,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/rudraksh.jpg
-          altText: Faux Fur Throw
+          altText: Adi yogi
           elementId: ''
           styles:
             self:
