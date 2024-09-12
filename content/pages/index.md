@@ -63,7 +63,7 @@ sections:
       opacity: 100
       url: /images/pexels-being-the-traveller-579914-2619724.jpg
   - title:
-      text: Grow your business 10x faster
+      text: Celebrate Your Faith with Ease
       color: text-dark
       styles:
         self:
