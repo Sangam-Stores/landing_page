@@ -22,15 +22,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/Final-logo-sangam-02-Photoroom.svg
       altText: Aarti being done
