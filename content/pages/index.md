@@ -8,11 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Experience the power of faith and spirituality in your life.
-    text: >
-      ![](/images/pexels-being-the-traveller-579914-2619724.jpg)A Netlify Create
-      website is a git repo that you own. Every code commit is instantly
-      reflected in the visual editor and since every visual edit is a git
-      commit, git workflows and collaboration just work.
+    text: >+
+      **"Sangam Services and Store"** brings together a team of well-educated
+      expert pujaris, specializing in various rituals. 
+
     actions:
       - label: Get started
         altText: ''
