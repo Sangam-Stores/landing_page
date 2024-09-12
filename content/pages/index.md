@@ -17,7 +17,7 @@ sections:
         altText: Shop now
         url: /
         showIcon: true
-        icon: chevronDown
+        icon: shoppingBag
         iconPosition: right
         style: secondary
         elementId: ''
