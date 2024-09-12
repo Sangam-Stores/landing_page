@@ -70,11 +70,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      "**Sangam Services and Store** brings together a team of well-educated
+      expert pujaris, specializing in various rituals. They help curate our DIY
+      pooja kits and provide in-depth guidance on pooja practices. We offer
+      online consultations and pooja conduction services, sourcing our products
+      from sacred places like Varanasi, Uttarakhand, Rishikesh, and Ujjain to
+      bridge the gap between temple towns and metropolitan cities.**"**
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
