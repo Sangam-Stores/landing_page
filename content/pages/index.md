@@ -106,9 +106,14 @@ sections:
       text: Celebrate Your Faith with Ease
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      "**Sangam Services and Store** brings together a team of well-educated
+      expert pujaris, specializing in various rituals. They help curate our DIY
+      pooja kits and provide in-depth guidance on pooja practices. We offer
+      online consultations and pooja conduction services, sourcing our products
+      from sacred places like Varanasi, Uttarakhand, Rishikesh, and Ujjain to
+      bridge the gap between temple towns and metropolitan cities.**"**
+
     actions:
       - type: Button
         label: Get started
