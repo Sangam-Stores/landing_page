@@ -14,7 +14,7 @@ sections:
 
     actions:
       - label: Shop Now
-        altText: ''
+        altText: Shop now
         url: /
         showIcon: false
         icon: arrowRight
