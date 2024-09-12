@@ -141,7 +141,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/ayodhya.jpeg
-          altText: Chunky Cotton Knit Throw
+          altText: Ayodhya temple
           elementId: ''
           styles:
             self:
