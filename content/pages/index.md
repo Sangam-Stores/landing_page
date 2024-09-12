@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Bridging Sacred Traditions with Urban Elegance
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
     subtitle: Experience the power of faith and spirituality in your life.
     text: >+
