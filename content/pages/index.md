@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Sangams Store
 slug: /
 sections:
   - type: GenericSection
