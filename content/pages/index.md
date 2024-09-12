@@ -99,7 +99,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: ''
+        title: rudraksh
         subtitle: ''
         image:
           type: ImageBlock
