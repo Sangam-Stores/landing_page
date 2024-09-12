@@ -18,7 +18,7 @@ sections:
         url: /
         showIcon: true
         icon: shoppingBag
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
         type: Button
