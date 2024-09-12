@@ -59,7 +59,7 @@ sections:
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
-      backgroundRepeat: repeat-x
+      backgroundRepeat: no-repeat
       opacity: 100
       url: /images/pexels-being-the-traveller-579914-2619724.jpg
   - type: FeaturedItemsSection
