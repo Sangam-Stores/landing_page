@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/pexels-being-the-traveller-579914-2619724.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Aarti being done
       elementId: ''
       type: ImageBlock
     badge:
