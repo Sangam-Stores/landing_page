@@ -154,7 +154,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/dwarka nagri.jpeg
-          altText: Faux Fur Throw
+          altText: A image of Dwarka Nagri
           elementId: ''
           styles:
             self:
