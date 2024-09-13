@@ -248,7 +248,7 @@ sections:
       type: Badge
       label: AI Companion
       color: text-primary
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
