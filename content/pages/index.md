@@ -297,10 +297,12 @@ sections:
       - title: How are the products sourced at Sangam Store?
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We source our products directly from temple towns like Varanasi,
+          Uttarakhand, Rishikesh, and Ujjain. This ensures authenticity and
+          helps bridge the gap between traditional temple towns and metropolitan
+          cities. 
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
