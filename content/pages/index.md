@@ -8,10 +8,7 @@ sections:
       color: text-neutral
       type: TitleBlock
     subtitle: Experience the power of faith and spirituality in your life.
-    text: >+
-      **"Sangam Services and Store"** brings together a team of well-educated
-      expert pujaris, specializing in various rituals. 
-
+    text: ''
     actions:
       - label: Shop Now
         altText: Shop now
