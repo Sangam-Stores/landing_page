@@ -16,7 +16,7 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "showIcon": true
+                "showIcon": false
             },
             {
                 "label": "Pricing",
