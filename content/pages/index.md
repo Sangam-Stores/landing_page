@@ -382,7 +382,7 @@ sections:
     subtitle: '"Crafted with Care. Curated for You"'
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: Festive Decor
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
