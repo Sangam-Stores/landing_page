@@ -327,10 +327,12 @@ sections:
       - title: What is the main goal of Sangam Store?
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Our main goal is to provide accessibility and simplify the process of
+          performing religious practices. We aim to ensure that everyone,
+          regardless of location, can easily access the necessary pooja kits,
+          thalis, and expert guidance for their spiritual needs. 
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
