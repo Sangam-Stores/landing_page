@@ -522,7 +522,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Sangam Stores
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Sangam Stores is a one stop market solution for all your pooja needs
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
