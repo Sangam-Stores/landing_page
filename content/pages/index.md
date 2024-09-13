@@ -427,7 +427,7 @@ sections:
         type: FeaturedItem
       - title: Divine Deity
         tagline: God Idols
-        subtitle: This is the item subtitle
+        subtitle: Divine Deity
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
