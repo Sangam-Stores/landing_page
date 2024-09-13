@@ -428,9 +428,7 @@ sections:
       - title: Artisan God Idols
         tagline: God Idols
         subtitle: Divine Deity
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: ''
         image:
           url: /images/idols.png
           altText: Placeholder image
