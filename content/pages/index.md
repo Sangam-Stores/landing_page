@@ -274,7 +274,7 @@ sections:
           all your spiritual needs. 
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/1.png
           altText: Maria Walters
           styles:
             self:
