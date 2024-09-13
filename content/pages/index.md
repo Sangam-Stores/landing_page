@@ -523,7 +523,7 @@ sections:
 seo:
   metaTitle: Home - Sangam Stores
   metaDescription: Sangam Stores is a one stop market solution for all your pooja needs
-  socialImage: /images/Mediamodifier-Design.svg
+  socialImage: /images/Final logo - sangam-02.jpg
   type: Seo
   metaTags: []
 type: PageLayout
