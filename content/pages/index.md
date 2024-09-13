@@ -405,9 +405,8 @@ sections:
         type: FeaturedItem
       - title: Feature Item Two
         tagline: Festive Decor
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        subtitle: Masterfully Crafted
+        text: ''
         image:
           url: /images/CopyofDSC06557copy_900x.jpg
           altText: Placeholder image
@@ -526,6 +525,11 @@ sections:
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
+  socialImage: /images/main-hero.jpg
+  type: Seo
+type: PageLayout
+---
+Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
