@@ -526,6 +526,7 @@ seo:
   socialImage: /images/Final logo - sangam-02.jpg
   type: Seo
   metaTags: []
+  addTitleSuffix: true
 type: PageLayout
 isDraft: false
 ---
