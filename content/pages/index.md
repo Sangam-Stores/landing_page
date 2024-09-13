@@ -373,7 +373,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: Product Catalogue
       color: text-primary
       styles:
         self:
