@@ -425,7 +425,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Divine Deity
+      - title: Artisan God Idols
         tagline: God Idols
         subtitle: Divine Deity
         text: >
