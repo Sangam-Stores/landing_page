@@ -384,8 +384,7 @@ sections:
       - title: Diyam
         tagline: Festive Decor
         subtitle: A Symphony of Light
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           url: /images/CopyofDSC06474copy_900x.jpg
           altText: Placeholder Image
