@@ -379,7 +379,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: '"Crafted with Care. Curated for You".'
+    subtitle: '"Crafted with Care. Curated for You"'
     items:
       - title: Feature Item One
         tagline: This is the tagline
