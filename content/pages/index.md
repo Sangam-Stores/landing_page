@@ -80,9 +80,7 @@ sections:
     subtitle: 'Divine Reflections: A Photo Gallery of Faith and Spirituality'
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+        title: ”
         tagline: ''
         subtitle: ''
         text: ''
