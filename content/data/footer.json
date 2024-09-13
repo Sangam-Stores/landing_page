@@ -4,21 +4,22 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand-- Sangam Store\n",
+    "text": "**Customer Care**\n\n**Phone:** [+91 7349519614](<tel:+91 8010288882>)\n\n**Email:** <sangamstores12@gmail.com>\n\n**Address**: Sangam Store, Bangalore, Karnataka, 560063\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Information",
         "links": [
             {
-                "label": "Features",
+                "label": "Track your Order",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "showIcon": false
             },
             {
-                "label": "Pricing",
+                "label": "Returns & Refunds",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,7 +27,7 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "Terms & Documentation",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -37,10 +38,10 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "About Sangam Store",
         "links": [
             {
-                "label": "Careers",
+                "label": "Contact us",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
@@ -49,7 +50,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "About us",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -103,7 +104,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "**Copyright © 2024 Sangam Stores - All Rights Reserved.\n**\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
