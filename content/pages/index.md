@@ -264,9 +264,7 @@ sections:
     title: null
     subtitle: Frequently Asked Question
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: What products and services does Sangam Store offer?
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
