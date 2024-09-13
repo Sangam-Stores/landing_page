@@ -267,10 +267,12 @@ sections:
       - title: What products and services does Sangam Store offer?
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Sangam Store** provides a wide range of pooja kits and thalis for
+          various religious ceremonies. We also offer online consultations with
+          expert pujaris, as well as pooja conduction services to help you with
+          all your spiritual needs. 
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
