@@ -405,7 +405,7 @@ sections:
         type: FeaturedItem
       - title: Artisanal Pooja Set
         tagline: Festive Decor
-        subtitle: Masterfully Crafted
+        subtitle: Masterfully Crafted DIY kits and sets
         text: ''
         image:
           url: /images/CopyofDSC06557copy_900x.jpg
