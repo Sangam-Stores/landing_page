@@ -80,7 +80,7 @@ sections:
     subtitle: 'Divine Reflections: A Photo Gallery of Faith and Spirituality'
     items:
       - type: FeaturedItem
-        title: ”
+        title: ''
         tagline: ''
         subtitle: ''
         text: ''
