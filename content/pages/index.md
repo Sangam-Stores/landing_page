@@ -304,7 +304,7 @@ sections:
           cities. 
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/2.png
           altText: John Doe
           styles:
             self:
