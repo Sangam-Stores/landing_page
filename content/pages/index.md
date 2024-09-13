@@ -373,21 +373,20 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: Product Catalogue
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: '"Crafted with Care. Curated for You"'
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Diyam
+        tagline: Festive Decor
+        subtitle: A Symphony of Light
+        text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/CopyofDSC06474copy_900x.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -404,13 +403,12 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Artisanal Pooja Set
+        tagline: Festive Decor
+        subtitle: Masterfully Crafted DIY kits and sets
+        text: ''
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/CopyofDSC06557copy_900x.jpg
           altText: Placeholder image
           styles:
             self:
@@ -427,14 +425,12 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+      - title: Artisan God Idols
+        tagline: God Idols
+        subtitle: Divine Deity
+        text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/idols.png
           altText: Placeholder image
           styles:
             self:
@@ -527,6 +523,11 @@ sections:
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
+  socialImage: /images/main-hero.jpg
+  type: Seo
+type: PageLayout
+---
+Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
