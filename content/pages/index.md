@@ -334,7 +334,7 @@ sections:
           thalis, and expert guidance for their spiritual needs. 
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/3.png
           altText: Maria Walters
           styles:
             self:
