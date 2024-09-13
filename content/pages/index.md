@@ -526,6 +526,7 @@ seo:
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
+isDraft: true
 ---
 Create.
   socialImage: /images/main-hero.jpg
