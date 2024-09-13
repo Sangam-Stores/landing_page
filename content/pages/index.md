@@ -77,7 +77,7 @@ sections:
       self:
         alignItems: center
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: 'Divine Reflections: A Photo Gallery of Faith and Spirituality'
     items:
       - type: FeaturedItem
         title: >-
