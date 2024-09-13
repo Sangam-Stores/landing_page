@@ -381,7 +381,7 @@ sections:
       type: TitleBlock
     subtitle: '"Crafted with Care. Curated for You"'
     items:
-      - title: Feature Item One
+      - title: Diyam
         tagline: Festive Decor
         subtitle: This is the item subtitle
         text: |
